@@ -1,2 +1,2 @@
 tiles.setCurrentTilemap(tilemap`level1`)
-scene.setBackgroundColor(1)
+scene.setBackgroundColor(2)
